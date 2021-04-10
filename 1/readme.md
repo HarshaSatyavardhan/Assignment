@@ -1,4 +1,6 @@
 - Results on 62 classes with pretrained = False
+
+
 | Models           | accuracy |
 |------------------|----------|
 | Mish + Xresnet50 |   0.87   |
