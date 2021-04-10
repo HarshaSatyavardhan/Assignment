@@ -8,7 +8,7 @@ drive link for model check points - https://drive.google.com/drive/folders/19r6z
 This Repository contains solution of Task 2 
 
 Reference:
-[1] https://docs.fast.ai/
-[2] https://arxiv.org/abs/1512.03385
-[3] https://fastai1.fast.ai/callbacks.lr_finder.html
+- [1] https://docs.fast.ai/
+- [2] https://arxiv.org/abs/1512.03385
+- [3] https://fastai1.fast.ai/callbacks.lr_finder.html
 
