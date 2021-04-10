@@ -12,4 +12,5 @@ Reference:
 - [1] https://docs.fast.ai/
 - [2] https://arxiv.org/abs/1512.03385
 - [3] https://fastai1.fast.ai/callbacks.lr_finder.html
+- [4] https://arxiv.org/abs/1506.01186
 
